@@ -1,0 +1,26 @@
+{
+  "productId": "A001",
+  "productName": "Wireless Mouse",
+  "category": "Electronics",
+  "price": 25.99,
+  "stock": 150,
+  "attributes": {
+    "color": "Black",
+    "batteryLife": "12 months",
+    "wirelessRange": "10 meters"
+  },
+  "reviews": [
+    {
+      "reviewId": 1,
+      "userId": 12345,
+      "rating": 4,
+      "comment": "Great mouse, very responsive."
+    },
+    {
+      "reviewId": 2,
+      "userId": 67890,
+      "rating": 5,
+      "comment": "Excellent value for money!"
+    }
+  ]
+}
